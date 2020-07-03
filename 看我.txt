@@ -1,6 +1,0 @@
-执行顺序
-create_table
-create_trigger
-create_view
-create_procedure
-add_data
